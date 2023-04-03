@@ -20,3 +20,13 @@ install.packages("IRkernel")
 IRkernel::installspec()
 ```
 After completing the installation, launch Jupyter Notebook, navigate to the folder containing the notebook file, and open it to begin running the analyses.
+## Contents
+1. Patterns in nature: Set up the environment and load the ggplot2 package.
+2. Warming up: drawing points on a circle: Create a scatter plot of 50 points arranged in a circle.
+3. Make it harmonious with the Golden Angle: Create a spiralized scatter plot using the Golden Angle.
+4. Remove everything unnecessary: Clean up the plot by removing unnecessary elements and changing the background color.
+5. A bit of makeup: size, color and transparency: Enhance the plot's appearance by adjusting point size, transparency, and color.
+6. Play with aesthetics: the dandelion: Transform the plot to resemble a dandelion by modifying point size, shape, and legend.
+7. Put all it together: the sunflower: Generate a sunflower-inspired plot by altering point shape and colors.
+8. What if you modify the angle?: Observe the effect of changing the angle value on the plot. 
+9. All together now: imaginary flowers: Design a magenta flower plot by tweaking the angle, number of points, and aesthetics.
